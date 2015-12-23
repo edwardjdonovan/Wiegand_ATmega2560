@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Wiegand_ATmega2560", "Wiegand_ATmega2560\Wiegand_ATmega2560.cproj", "{644CCFF4-5B15-47E3-8593-C199D039DF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{644CCFF4-5B15-47E3-8593-C199D039DF90}.Debug|AVR.ActiveCfg = Debug|AVR
+		{644CCFF4-5B15-47E3-8593-C199D039DF90}.Debug|AVR.Build.0 = Debug|AVR
+		{644CCFF4-5B15-47E3-8593-C199D039DF90}.Release|AVR.ActiveCfg = Release|AVR
+		{644CCFF4-5B15-47E3-8593-C199D039DF90}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
